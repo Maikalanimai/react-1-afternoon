@@ -12,9 +12,9 @@ class App extends Component {
     return(<div>
       <EvenAndOdd />
       <FilterObject />
+      <FilterString />
       <Sum />
       <Palindrome />
-      <FilterString />
       
 
     </div>
