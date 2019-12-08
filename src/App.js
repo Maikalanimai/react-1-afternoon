@@ -13,8 +13,8 @@ class App extends Component {
       <EvenAndOdd />
       <FilterObject />
       <FilterString />
-      <Sum />
       <Palindrome />
+      <Sum />
       
 
     </div>
