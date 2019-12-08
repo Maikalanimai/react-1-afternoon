@@ -58,7 +58,7 @@ class Palindrome extends Component {
         >
           Check Text
         </button>
-        <span className="resultsBox">{this.state.palindrome}</span>
+        <span className="resultsBox">Is it a palindrome:{this.state.palindrome}</span>
       </div>
     );
   }
